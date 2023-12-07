@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Приседания с поворотом корпуса|31|ex1.gif</item><!-- 0 -->
+        <item>Червяк с отжиманием|x10|ex2.gif</item><!-- 1 -->
+        <item>Армейские отжимания|x10|ex3.gif</item><!-- 2 -->
+        <item>Упражнение «пловец»|31|ex4.gif</item><!-- 3 -->
+        <item>Поднос колена сбоку в упоре|31|ex5.gif</item><!-- 4 -->
+        <item>Упражнение «книжка»|x20|ex6.gif</item><!-- 5 -->
+        <item>Касание ноги рукой|x10|kasanie_nogi_rukoy.gif</item><!-- 6 -->
+        <item>Махи ногой|x10|maxi_nogoy.gif</item><!-- 7 -->
+        <item>Подъем в планке|x20|podyom_v_planke.gif</item><!-- 8 -->
+        <item>Приседания|x10|prised.gif</item><!-- 9 -->
+        <item>Шаги в сторону|x10|shagi v storonu.gif</item><!-- 10 -->
+        <item>Отдых|31|yoga-bear.gif</item><!-- 11 REST-->
+        <item>Выпады с подъемом ног|x10|vipadi_s_podyomom.gif</item><!-- 12 -->
+        <item>Финиш!|30|finish.gif</item><!-- 13 FINISH -->
+
+
+    </string-array>
+    <string-array name="day">
+         <item>0,1,2,11,3,4,5</item> <!-- 0 -->
+         <item>0,1,2,11,3,4,5,11,8,9 </item> <!-- 1 -->
+         <item>0,1,2,11,3,4,5,11,10,1,5</item> <!-- 2 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 3 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 4 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 5 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 6 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 7 -->
+         <item>0,1,2,11,3,4,5</item> <!-- 8 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 9 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 10 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 11 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 12 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 13 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 14 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 15 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 16 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 17 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 18 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 19 -->
+         <item>0,1,2,11,3,4,5,11</item> <!-- 20 -->
+
+    </string-array>
+</resources>

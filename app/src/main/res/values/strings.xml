@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FitnesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slogan">Брось себе вызов</string>
+    <string name="day">День:</string>
+    <string name="rest_days">дней</string>
+    <string name="rest">Осталось:</string>
+    <string name="exercise">Упражнений</string>
+    <string name="alert">Внимание!</string>
+    <string name="reset">Сбросить все</string>
+    <string name="back">Отмена</string>
+    <string name="reset_exercise">Хотите обнулить этот день и повторить упражнения?</string>
+    <string name="reset_days">Вы действительно хотите удалить весь прогресс?</string>
+</resources>
